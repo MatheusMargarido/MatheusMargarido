@@ -1,6 +1,4 @@
 # Olá eu sou o Matheus Henrique 👋
-- 💻 Desenvolvedor Back-End
-- 🌱 Atualmente me aprofundando na linguagem JAVA; 
 - 📫 Contate-me no e-mail: matheusmargarido.contato@gmail.com
 
 ## 🌐 Socials:
