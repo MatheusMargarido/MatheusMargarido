@@ -4,15 +4,6 @@
 
 <h5 align="left">☕ Back-end developer.</h5>
 
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusMargarido&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusMargarido&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <h3 align="left">Languages and Tools:</h3>
 
 ###
@@ -42,10 +33,6 @@
 ###
 
 <h3 align="left">Connect with me:</h3>
-
-###
-
-<img align="right" height="80" src="https://68.media.tumblr.com/tumblr_m94j3yfaQE1rnep7do1_500.gif"  />
 
 ###
 
